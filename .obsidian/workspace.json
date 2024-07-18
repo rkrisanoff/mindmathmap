@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content/¥¬ó¿óá½Ñ¡µ¿∩.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "5c724af175c97dc8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dcfd74c4cf9aba98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Content/ä«¬áºáΓÑ½∞ßΓó«. Éáó¡«ß¿½∞¡«ßΓ∞ »αÑñÑ½á »« âÑ⌐¡Ñ ¿ »« è«Φ¿.md",
+                "file": "_fit/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.49999618530273
+    "width": 280.49999618530273
   },
   "right": {
     "id": "5c14f4f7c294456f",
@@ -103,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content/¥¬ó¿óá½Ñ¡µ¿∩.md",
-                "collapseAll": false,
+                "file": "_fit/README.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content/¥¬ó¿óá½Ñ¡µ¿∩.md",
+                "file": "_fit/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content/¥¬ó¿óá½Ñ¡µ¿∩.md"
+                "file": "_fit/README.md"
               }
             }
           }
@@ -151,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,5 +149,16 @@
   },
   "active": "fd6dc952d54f6957",
   "lastOpenFiles": [
+    "README.md",
+    "_fit/README.md",
+    "_fit",
+    "Pasted image 20240718231751.png",
+    "Pasted image 20240718231217.png",
+    "Pasted image 20240718231414.png",
+    "Pasted image 20240718231725.png",
+    "Pasted image 20240718231441.png",
+    "Pasted image 20240718231530.png",
+    "Pasted image 20240718230049.png",
+    "Pasted image 20240718231202.png"
   ]
 }
