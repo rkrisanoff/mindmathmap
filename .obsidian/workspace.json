@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_fit/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_fit/README.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_fit/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_fit/README.md"
+                "file": "README.md"
               }
             }
           }
@@ -143,14 +143,13 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "fit:Fit Sync": false
+      "command-palette:Открыть палитру команд": false
     }
   },
   "active": "fd6dc952d54f6957",
   "lastOpenFiles": [
-    "README.md",
     "_fit/README.md",
+    "README.md",
     "_fit",
     "Pasted image 20240718231751.png",
     "Pasted image 20240718231217.png",
